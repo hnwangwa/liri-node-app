@@ -18,6 +18,7 @@
   "homepage": "https://github.com/hnwangwa/liri-node-app#readme",
   "dependencies": {
     "node-spotify-api": "^1.0.7",
-    "node-twitter-api": "^1.8.0"
+    "node-twitter-api": "^1.8.0",
+    "twitter": "^1.7.1"
   }
 }
